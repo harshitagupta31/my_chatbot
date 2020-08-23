@@ -23,12 +23,7 @@ convo=['hi','hello',
 'how r u?','fine',
 'where do u live?','in   bareilly',
 'which language do u speak?','english   mainly',
-'safety measures of corona','washimg   your   hand   &    social distancing',
-'when this lockdown will get over?','only   modi   ji   can   give   this   ans',
-'who is dog?','harsh  doggy',
-'mom love the most','kimi',
-'who is kali?','navisha',
-'who is thali ka baigan?','avani    mittal',]
+'safety measures of corona','washimg   your   hand   &    social distancing',]
 
 trainer=ListTrainer(bot)
 #training the bpot by trainer
